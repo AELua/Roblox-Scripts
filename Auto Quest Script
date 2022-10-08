@@ -1,0 +1,4 @@
+while wait(1) do
+
+game:GetService("ReplicatedStorage").Remotes.ClaimQuestReward:FireServer()
+end
